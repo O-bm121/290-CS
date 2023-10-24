@@ -1,0 +1,35 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <img style="width: 21px; height: 21px; left: 382px; top: 5px; position: absolute" src="https://via.placeholder.com/21x21" />
+    <img style="width: 21px; height: 21px; left: 403px; top: 5px; position: absolute" src="https://via.placeholder.com/21x21" />
+    <img style="width: 21px; height: 21px; left: 358px; top: 5px; position: absolute" src="https://via.placeholder.com/21x21" />
+    <div style="width: 35px; height: 26px; left: 0px; top: -5px; position: absolute; color: black; font-size: 20px; font-family: Inika; font-weight: 400; word-wrap: break-word">9:45</div>
+    <div style="width: 430px; height: 36px; left: 0px; top: 26px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px black solid"></div>
+    <img style="width: 30px; height: 30px; left: 5px; top: 30px; position: absolute" src="https://via.placeholder.com/30x30" />
+    <div style="width: 293px; height: 39px; left: 68px; top: 24px; position: absolute; color: black; font-size: 24px; font-family: Inika; font-weight: 400; word-wrap: break-word">Assigments page - CS 150</div>
+    <img style="width: 47px; height: 54px; left: 35px; top: 109px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 355px; top: 458px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 355px; top: 608px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 191px; top: 608px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 35px; top: 608px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 355px; top: 284px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 355px; top: 109px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 191px; top: 109px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 35px; top: 458px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 191px; top: 458px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 191px; top: 284px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <img style="width: 47px; height: 54px; left: 35px; top: 284px; position: absolute" src="https://via.placeholder.com/47x54" />
+    <div style="width: 107px; height: 17px; left: 13px; top: 167px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2023-first semster</div>
+    <div style="width: 107px; height: 17px; left: 14px; top: 338px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2022-first semster</div>
+    <div style="width: 111px; height: 17px; left: 319px; top: 512px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2020-first semster</div>
+    <div style="width: 111px; height: 17px; left: 161px; top: 662px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2019-first semster</div>
+    <div style="width: 128px; height: 17px; left: 154px; top: 512px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2021-seconde semster</div>
+    <div style="width: 128px; height: 17px; left: 302px; top: 662px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2019-seconde semster</div>
+    <div style="width: 131px; height: 17px; left: 2px; top: 662px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2020-seconde semster</div>
+    <div style="width: 107px; height: 17px; left: 13px; top: 512px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2021-first semster</div>
+    <div style="width: 114px; height: 17px; left: 161px; top: 338px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2022-third semster</div>
+    <div style="width: 117px; height: 17px; left: 314px; top: 339px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2022-third semster</div>
+    <div style="width: 116px; height: 17px; left: 314px; top: 167px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2023-third semster</div>
+    <div style="width: 131px; height: 17px; left: 155px; top: 167px; position: absolute; color: black; font-size: 13px; font-family: Inika; font-weight: 400; word-wrap: break-word">2023-seconde semster</div>
+    <div style="width: 104px; height: 70px; left: 317px; top: 738px; position: absolute; background: #007AFF; border-radius: 25px; border: 1px black solid"></div>
+    <div style="left: 332px; top: 752px; position: absolute; color: white; font-size: 32px; font-family: Inika; font-weight: 400; word-wrap: break-word">view</div>
+</div>
