@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sign in form</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 90%;
+    padding: 16px;
+    background-color: white;
+    margin: 0 auto;
+}
+.al {
+    width: 20%;
+    height: inherit;
+    padding: 16px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 4px;
+    
+    
+    
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #007AFF;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+</style>
+</head>
+<body>
+    <fieldset align="center" class="al">
+        <legend><h6>Alternative Learning Technique</h6></legend>
+<div class="container">
+    
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" id="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+
+    <button type="submit" id="loginBtn">Log In</button>
+    <label>don’t have account?</label><a href="testcon.php"> Sign Up</a>
+</div>
+</fieldset>
+<script>
+document.getElementById('loginBtn').addEventListener('click', function(event) {
+    event.preventDefault(); // prevent page from refreshing
+    var username = document.getElementById('uname').value;
+    var password = document.getElementById('psw').value;
+
+    if (username && password) {
+        // make an API call to your backend to authenticate the user
+        console.log('User Name:', username);
+        console.log('Password:', password);
+
+        // if the authentication is successful, redirect the user to ms.php
+        window.location.href = 'ms.php';
+    } else {
+        alert('Please fill out both fields.');
+    }
+});
+</script>
+
+</body>
+</html>
